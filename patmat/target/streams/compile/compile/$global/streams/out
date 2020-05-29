@@ -1,0 +1,4 @@
+[0m[[0m[33mwarn[0m] [0m[0m/home/nikru/Downloads/patmat/src/main/scala/patmat/Huffman.scala:80:22: method /: in trait IterableOnceOps is deprecated (since 2.13.0): Use foldLeft instead of /:[0m
+[0m[[0m[33mwarn[0m] [0m[0m    (Map[Char,Int]() /: chars)(incr).iterator.toList[0m
+[0m[[0m[33mwarn[0m] [0m[0m                     ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
